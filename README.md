@@ -12,6 +12,10 @@ Make sure you have the following already installed:
 * XCode
 
 ## Local Development
+To install all dependencies, run the following:
+```bash
+npm install
+```
 
 Bitgram is developed using Expo, a framework to build applications using React on mobile and web platforms using one codebase. To run and develop against the codebase, run the following command:
 ```bash
