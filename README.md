@@ -5,7 +5,7 @@ Welcome to Bitgram, the official decentralized Instagram built and powered by th
 # Installation
 ## Requirements
 Make sure you have the following already installed:
-* Node v15.4.0
+* Node v15.4.0 (We recommend using NVM)
 * NPM v7.7.6
 * Expo 4.5.0
 * macOS version 11
